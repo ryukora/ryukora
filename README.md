@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, i'm Sorakaku! 👋
+----
+I work for BEBASID. </br>
+Thank you for viewing my profile.
+<p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=nxzlem&theme=dracula" /> </p>
+My visitors:
+<p> <img alt="Stats2" src="https://count.getloli.com/get/@:nxzlem?theme=moebooru" /> </p>
 
 <!--
 **nxzlem/nxzlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
