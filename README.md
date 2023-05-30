@@ -1,9 +1,10 @@
-### Hi there, i'm Sorakaku! 👋
+### Hello, I'm Sorakaku! 👋
 ----
-I work for BEBASID. </br>
+I work for [BEBASID](https://github.com/bebasid/). 
+</br>
 Thank you for viewing my profile.
-<p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=nxzlem&theme=dracula" /> </p>
-My visitors:
+<p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=nxzlem&theme=dracula" /> </p> 
+My viewers:
 <p> <img alt="Stats2" src="https://count.getloli.com/get/@:nxzlem?theme=moebooru" /> </p>
 
 <!--
