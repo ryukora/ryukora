@@ -7,7 +7,7 @@ Thank you for viewing my profile, fellow watchers.</br></br>
 <img alt="views" src="https://komarev.com/ghpvc/?username=ryukora&color=91293a" />
 
 Here are my GitHub stats:</br>
-<p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=nxzlem&theme=dracula" /> </p> 
+<p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=ryukora&theme=dracula" /> </p> 
 
 <!--
 **ryukora/ryukora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
