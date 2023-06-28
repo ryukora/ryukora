@@ -1,4 +1,4 @@
-### Hello, I'm Sorakaku! 👋
+### Hello, I'm Ryukora! 👋
 ----
 I work for [BEBASID](https://github.com/bebasid/). 
 </br>
