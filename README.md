@@ -8,7 +8,7 @@ My viewers:
 <p> <img alt="Stats2" src="https://count.getloli.com/get/@:ryukora?theme=moebooru" /> </p>
 
 <!--
-**nxzlem/nxzlem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ryukora/ryukora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
