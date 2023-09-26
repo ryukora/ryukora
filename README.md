@@ -4,7 +4,7 @@ I work for [BEBASID](https://github.com/bebasid/) as a DNS/Host.
 
 ----
 Thank you for viewing my profile, fellow watchers.</br></br>
-<img alt="views" src="https://komarev.com/ghpvc/?username=ryukora&color=91293a" />
+<img alt="views" src="https://komarev.com/ghpvc/?username=ryukora&color=0b5394" />
 
 Here are my GitHub stats:</br>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=ryukora&theme=dracula" /> </p> 
