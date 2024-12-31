@@ -19,7 +19,7 @@ Here are my GitHub stats & analytics:</br>
         Local and international Payment is below:</br><br>
 <table>
   <tr>
-    <td valign="center"><a href="https://saweria.co/ryukora"><img src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcapy_happy.603c7293.svg&w=384&q=75" width="24"/> Saweria</td>
+    <td valign="center"><a href="https://saweria.co/ryukora"><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01c81f8c-18c9-47d7-b7ad-c04058016626_225x225.png" width="24"/> Saweria</td>
     <td valign="center"><a href="https://trakteer.id/ryukora"><img src="https://cdn.trakteer.id/images/mix/trakteer-icon-thumbnail.png" width="24"/> Trakteer</td>
     <td valign="center"><a href="https://ko-fi.com/ryukora"><img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" width="24"/> Ko-Fi</td>
 </table></br>
