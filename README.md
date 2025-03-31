@@ -10,7 +10,7 @@ Here are my GitHub stats & analytics:</br>
  
 <p align="left" class="d-flex justify-content-center align-items-center">
 <a href="https://github.com/ryukora"> 
-<!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ryukora&theme=tokyonight" alt="GitHub Streak" /></a>//-->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ryukora&theme=tokyonight" alt="GitHub Streak" /></a>
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryukora&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </a>
 </p> 
