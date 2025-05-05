@@ -1,4 +1,4 @@
-### Hello, I'm Ryukora! 👋
+### Hello, I'm Ryukura! 👋
 
 I work as a Hosts or DNS management for [BEBASID](https://github.com/bebasid/) organization. 
 
