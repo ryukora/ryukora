@@ -28,7 +28,7 @@ Here are my GitHub stats & analytics:</br>
 
 ----
 <b>My Discord profile:</b></br>
-<a href="https://discord.com/users/328048748120899586"><img src="https://lanyard.cnrad.dev/api/328048748120899586?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
+<a href="https://discord.com/users/328048748120899586"><img src="https://lanyard.cnrad.dev/api/328048748120899586?showDisplayName=true&idleMessage=I%20love%20Hatsune%20Miku%20%26%20LamazeP!&borderRadius=10px" alt="Discord" width="450"/></a>
 
 
 <!--
