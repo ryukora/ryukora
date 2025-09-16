@@ -10,10 +10,12 @@ Here are my GitHub stats & analytics:</br>
  
 <p align="left" class="d-flex justify-content-center align-items-center">
 <a href="https://github.com/ryukora"> 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ryukora&theme=tokyonight" alt="GitHub Streak" /></a>
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryukora&theme=tokyonight" alt="GitHub Streak" /></a>-->
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryukora&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </a>
 </p> 
+
+<!--
 </br>
         I accept my donations <b>(feel free to support me)</b>:</br>
         Local and international Payment is below:</br><br>
@@ -23,8 +25,8 @@ Here are my GitHub stats & analytics:</br>
     <td valign="center"><a href="https://trakteer.id/ryukora"><img src="https://cdn.trakteer.id/images/mix/trakteer-icon-thumbnail.png" width="24"/> Trakteer</td>
     <td valign="center"><a href="https://ko-fi.com/ryukora"><img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" width="24"/> Ko-Fi</td>
 </table></br>
-      
-**Thank you very much!**
+<b>Thank you very much!</b>
+-->
 
 ----
 <b>My Discord profile:</b></br>
